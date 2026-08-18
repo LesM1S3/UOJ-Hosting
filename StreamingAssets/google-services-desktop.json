@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31668589207",
+    "project_id": "uoj-project-73b6e",
+    "storage_bucket": "uoj-project-73b6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31668589207:android:10b12305608d8f43588fd2",
+        "android_client_info": {
+          "package_name": "com.lesedi.uojproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb85YwXgvP0l2af_1IwqedGP9olHS-J-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
